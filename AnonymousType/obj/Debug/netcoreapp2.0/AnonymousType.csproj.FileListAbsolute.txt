@@ -1,0 +1,11 @@
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/AnonymousType/bin/Debug/netcoreapp2.0/AnonymousType.deps.json
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/AnonymousType/bin/Debug/netcoreapp2.0/AnonymousType.runtimeconfig.json
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/AnonymousType/bin/Debug/netcoreapp2.0/AnonymousType.runtimeconfig.dev.json
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/AnonymousType/bin/Debug/netcoreapp2.0/AnonymousType.dll
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/AnonymousType/bin/Debug/netcoreapp2.0/AnonymousType.pdb
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/AnonymousType/obj/Debug/netcoreapp2.0/AnonymousType.csprojAssemblyReference.cache
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/AnonymousType/obj/Debug/netcoreapp2.0/AnonymousType.csproj.CoreCompileInputs.cache
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/AnonymousType/obj/Debug/netcoreapp2.0/AnonymousType.AssemblyInfoInputs.cache
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/AnonymousType/obj/Debug/netcoreapp2.0/AnonymousType.AssemblyInfo.cs
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/AnonymousType/obj/Debug/netcoreapp2.0/AnonymousType.dll
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/AnonymousType/obj/Debug/netcoreapp2.0/AnonymousType.pdb
