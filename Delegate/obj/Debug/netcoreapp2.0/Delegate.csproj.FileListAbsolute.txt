@@ -1,0 +1,11 @@
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/Delegate/bin/Debug/netcoreapp2.0/Delegate.deps.json
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/Delegate/bin/Debug/netcoreapp2.0/Delegate.runtimeconfig.json
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/Delegate/bin/Debug/netcoreapp2.0/Delegate.runtimeconfig.dev.json
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/Delegate/bin/Debug/netcoreapp2.0/Delegate.dll
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/Delegate/bin/Debug/netcoreapp2.0/Delegate.pdb
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/Delegate/obj/Debug/netcoreapp2.0/Delegate.csprojAssemblyReference.cache
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/Delegate/obj/Debug/netcoreapp2.0/Delegate.csproj.CoreCompileInputs.cache
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/Delegate/obj/Debug/netcoreapp2.0/Delegate.AssemblyInfoInputs.cache
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/Delegate/obj/Debug/netcoreapp2.0/Delegate.AssemblyInfo.cs
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/Delegate/obj/Debug/netcoreapp2.0/Delegate.dll
+/home/charles/Programming/Workspace/CSharp/WS-ThreadsSynchro/Delegate/obj/Debug/netcoreapp2.0/Delegate.pdb
